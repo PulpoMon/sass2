@@ -1,0 +1,165 @@
+body {
+  background-color: aquamarine;
+}
+
+.col-1 {
+  width: 10%;
+}
+
+.col-2 {
+  width: 20%;
+}
+
+.col-3 {
+  width: 30%;
+}
+
+.col-4 {
+  width: 40%;
+}
+
+.col-5 {
+  width: 50%;
+}
+
+.col-6 {
+  width: 60%;
+}
+
+.col-7 {
+  width: 70%;
+}
+
+.col-8 {
+  width: 80%;
+}
+
+.bucles:nth-of-type(1) {
+  font-size: 19px;
+  background-color: #9a9a9a;
+}
+
+.bucles:nth-of-type(2) {
+  font-size: 19px;
+  background-color: gray;
+}
+
+.bucles:nth-of-type(3) {
+  font-size: 19px;
+  background-color: #676767;
+}
+
+.bucles:nth-of-type(4) {
+  font-size: 19px;
+  background-color: #4d4d4d;
+}
+
+.bucles:nth-of-type(5) {
+  font-size: 19px;
+  background-color: #343434;
+}
+
+.bucles:nth-of-type(6) {
+  font-size: 19px;
+  background-color: #1a1a1a;
+}
+
+.bucles:nth-of-type(7) {
+  font-size: 19px;
+  background-color: #010101;
+}
+
+.bucles:nth-of-type(8) {
+  font-size: 19px;
+  background-color: black;
+}
+
+.blue {
+  color: blue;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.black {
+  color: black;
+}
+
+.texto-grande {
+  font-size: 32px;
+}
+
+.texto-mediano {
+  font-size: 24px;
+}
+
+.texto-chico {
+  font-size: 18px;
+}
+
+/*Creamos el bucle para usar los valores del mapa*/
+.btn--twitter {
+  background-color: #55acee;
+}
+
+.btn--facebook {
+  background-color: #3a5795;
+}
+
+.btn--gmail {
+  background-color: #C25E30;
+}
+
+div {
+  background-color: #3673D9;
+  text-align: center;
+  padding: 1rem;
+  font-size: 35px;
+}
+
+.boton, .boton--cancelar, .boton--aceptar {
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  color: black;
+  border-radius: 20px;
+}
+
+.boton--aceptar {
+  background-color: green;
+  color: yellow;
+}
+
+.boton--cancelar {
+  background-color: red;
+  color: yellow;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.box {
+  height: 50px;
+  width: 500px;
+}
+
+.imagen1 {
+  height: 200px;
+  width: 200px;
+}
+
+.imagen2 {
+  height: 300px;
+  width: 400px;
+}
+
+.imagen3 {
+  width: 350px;
+  height: 150px;
+}
+
+/*# sourceMappingURL=styles.css.map */
